@@ -1,6 +1,6 @@
 const { default: axios } = require("axios");
 
-const token = "a239f69d-7446-4fe9-b46b-8cbd4db5a867";
+const token = "";
 var userinfo = {};
 //获取开放社区
 function getroom() {
